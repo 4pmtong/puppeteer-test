@@ -1,39 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="16416c14-d930-4fd5-ab3f-47d75e1e2389" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/UITest/9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler/二维码识别.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler/使用指南.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler/发票识别.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler/营业执照识别.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 二维码识别 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 人脸搜索 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 人脸检测 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 人脸比对 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 企业全息互联网画像 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 共享服务引擎 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 发票查验与识别 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 商机推荐引擎 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 图像预处理 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 图像预筛选 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 营业执照识别 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 语音合成 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 语音唤醒 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/ 语音识别 .pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/crawler2/首页.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/index.pdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/index.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/data/traceIndex.json" afterPath="" />
+    <list default="true" id="16416c14-d930-4fd5-ab3f-47d75e1e2389" name="Default" comment="...">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/UITest/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/crawler/test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/crawler2/test" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -45,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.62864226">
+    <splitter split-orientation="horizontal" split-proportion="0.50488997">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="UITest.js" pinned="false" current-in-tab="false">
@@ -81,7 +52,7 @@
           <file leaf-file-name="git.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/git.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="147">
+                <state relative-caret-position="-483">
                   <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
                   <folding />
                 </state>
@@ -115,8 +86,8 @@
           <file leaf-file-name="user.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/models/user.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="294">
-                  <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="25" />
+                <state relative-caret-position="315">
+                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -218,11 +189,6 @@
               <item name="my-test-toolkit" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="my-test-toolkit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my-test-toolkit" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -245,6 +211,116 @@
       <recent name="E:\WebstormProjects\my-test-toolkit\src" />
       <recent name="E:\WebstormProjects\my-test-toolkit\backup" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/README.md</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -373,12 +449,20 @@
       <workItem from="1510212337845" duration="35000" />
       <workItem from="1510212400758" duration="8282000" />
       <workItem from="1510278013798" duration="11897000" />
-      <workItem from="1510536938122" duration="6502000" />
+      <workItem from="1510536938122" duration="6820000" />
     </task>
+    <task id="LOCAL-00001" summary="...">
+      <created>1510553555917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1510553555917</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69150000" />
+    <option name="totallyTimeSpent" value="69468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -394,7 +478,7 @@
       <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7318436" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12793177" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12846482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Log Manager" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -409,23 +493,14 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="..." />
+    <option name="LAST_COMMIT_MESSAGE" value="..." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/crawler.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/index.js" />
-    <entry file="file://$PROJECT_DIR$/src/index.js" />
     <entry file="file://$PROJECT_DIR$/src/index.js" />
     <entry file="file://$PROJECT_DIR$/src/index.js" />
     <entry file="file://$PROJECT_DIR$/landing-page.png" />
@@ -588,16 +663,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/git.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="-483">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/crawler/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/crawler2/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/UITest/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="25" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="315">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
