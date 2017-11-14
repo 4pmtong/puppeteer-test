@@ -13,12 +13,14 @@ const puppeteer = require('puppeteer');
   
   await page.goto('http://brp.kingdee.com/tech/bdi/bore');
   
+  // 分析DOM结构
   const input = '.req-box .input-item';
   const searchBtn = '.req-box .search';
   const changeBtn = '.change-box .change';
   const resText = '.response-box .text-res';
   const resJson = '.response-box .responjson';
   
+  // 模拟搜索事件
   const UITest = async i => {
   
     if (i === 0) {
