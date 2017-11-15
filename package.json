@@ -1,7 +1,7 @@
 {
   "name": "my-test-toolkit",
   "version": "1.0.0",
-  "description": "",
+  "description": "puppeteer",
   "main": "index.js",
   "dependencies": {
     "mongoose": "^4.13.1",
@@ -16,5 +16,19 @@
     "crawler2": "node src/crawler2.js",
     "UITest": "node src/UITest.js",
     "git": "node src/git.js"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4pmtong/puppeteer-test.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "ct",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4pmtong/puppeteer-test/issues"
+  },
+  "homepage": "https://github.com/4pmtong/puppeteer-test#readme"
 }
