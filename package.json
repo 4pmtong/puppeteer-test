@@ -26,7 +26,7 @@
     "puppeteer"
   ],
   "author": "ct",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/4pmtong/puppeteer-test/issues"
   },
