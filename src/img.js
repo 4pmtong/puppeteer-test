@@ -1,6 +1,6 @@
 /**
  * @desc: 首页截图
- * @author: 陈彤
+ * @author: 4pmtong
  * @date: 2017/11/9 15:35
  */
 
