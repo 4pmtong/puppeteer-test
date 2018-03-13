@@ -1,5 +1,7 @@
 # puppeteer-test
 
+> A puppeteer demo
+
 ## Getting Started
 ```javascript
 yarn install
